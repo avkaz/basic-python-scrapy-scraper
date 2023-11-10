@@ -21,6 +21,7 @@ itemadapter==0.8.0
 itemloaders==1.1.0
 jedi==0.19.1
 jmespath==1.0.1
+json5==0.9.14
 lxml==4.9.3
 matplotlib-inline==0.1.6
 packaging==23.2
@@ -40,12 +41,14 @@ pyOpenSSL==23.3.0
 queuelib==1.6.2
 requests==2.31.0
 requests-file==1.5.1
+scrapeops-scrapy==0.5.3
 Scrapy==2.11.0
 scrapy-rotating-proxies==0.6.2
 service-identity==23.1.0
 six==1.16.0
 SQLAlchemy==2.0.23
 stack-data==0.6.3
+tld==0.13
 tldextract==5.1.0
 traitlets==5.13.0
 Twisted==22.10.0
